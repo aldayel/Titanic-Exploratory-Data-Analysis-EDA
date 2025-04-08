@@ -1,4 +1,4 @@
-# Titanic-Exploratory-Data-Analysis-EDA (Tuwaiq Academy Bootcamp Task)
+# Titanic-Exploratory-Data-Analysis-EDA
 
 
 This project provides an exploratory data analysis (EDA) of the Titanic dataset. The goal of the analysis is to uncover insights and trends from the data, understand patterns related to passenger survival, and gain experience with data manipulation and visualization techniques using Python.
